@@ -1,6 +1,6 @@
 # ScoreLeaderBot
 
-この説明書は、BeatLeaderのスコアからDiscordのサーバー内にリーダーボードを表示するためのBotです。
+これはBeatLeaderのスコアからDiscordのサーバー内にリーダーボードを表示するためのBotです。
 
 ## インストール方法
 
