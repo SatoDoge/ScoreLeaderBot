@@ -1,6 +1,15 @@
-# Discord Bot コマンド説明書
+# ScoreLeaderBot
 
-この説明書は、リーダーボード管理ボットで使用可能なコマンドをまとめたものです。
+この説明書は、BeatLeaderのスコアからDiscordのサーバー内にリーダーボードを表示するためのBotです。
+
+# インストール方法
+
+1. このリポジトリをクローンもしくはダウンロードします`git clone https://github.com/SatoDoge/ScoreLeaderBot.git`
+2. npmで必要なモジュールをインストールします`npm install`
+3. Botを作成・導入した後に.envに必要な情報を入力します
+4. nodeでプログラムを実行します`node app.js`
+
+※将来的にはDockerでの実行を考えています
 
 ## /addmap
 リーダーボードにマップを追加します。
