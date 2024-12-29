@@ -2,7 +2,7 @@
 
 この説明書は、BeatLeaderのスコアからDiscordのサーバー内にリーダーボードを表示するためのBotです。
 
-# インストール方法
+## インストール方法
 
 1. このリポジトリをクローンもしくはダウンロードします
    `git clone https://github.com/SatoDoge/ScoreLeaderBot.git`
