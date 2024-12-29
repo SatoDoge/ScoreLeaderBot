@@ -4,10 +4,11 @@
 
 # インストール方法
 
-1. このリポジトリをクローンもしくはダウンロードします`git clone https://github.com/SatoDoge/ScoreLeaderBot.git`
-2. npmで必要なモジュールをインストールします`npm install`
-3. Botを作成・導入した後に.envに必要な情報を入力します
-4. nodeでプログラムを実行します`node app.js`
+1. このリポジトリをクローンもしくはダウンロードします
+   `git clone https://github.com/SatoDoge/ScoreLeaderBot.git`
+3. npmで必要なモジュールをインストールします`npm install`
+4. Botを作成・導入した後に.envに必要な情報を入力します
+5. nodeでプログラムを実行します`node app.js`
 
 ※将来的にはDockerでの実行を考えています
 
