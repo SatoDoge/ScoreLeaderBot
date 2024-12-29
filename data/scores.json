@@ -1,0 +1,120 @@
+[
+    {
+        "id": "3ce66",
+        "characteristic": "OneSaber",
+        "difficulty": "ExpertPlus",
+        "name": "[One Saber] FITO SILVA - BLAH BLAH BLAH (NOIZE N ROUZ REMIX)",
+        "hash": "786e63a583c74470b1812c14e07792b198520fbc",
+        "maxScore": 416955,
+        "scores": [
+            {
+                "id": "76561199327349336",
+                "score": 394779,
+                "acc": 94.68,
+                "name": "Labo"
+            },
+            {
+                "id": "76561199257569878",
+                "score": 394213,
+                "acc": 94.55,
+                "name": "Uragirimono"
+            },
+            {
+                "id": "76561198005851277",
+                "score": 387082,
+                "acc": 92.84,
+                "name": "garai_JLS"
+            },
+            {
+                "id": "76561198835553328",
+                "score": 379721,
+                "acc": 91.07,
+                "name": "佐藤"
+            }
+        ]
+    },
+    {
+        "id": "35062",
+        "characteristic": "OneSaber",
+        "difficulty": "ExpertPlus",
+        "name": "[One Saber] Spin Eternally - Camellia",
+        "hash": "dd90f0e236c73c1a0565634bfd7eb168c0e81b58",
+        "maxScore": 1087795,
+        "scores": [
+            {
+                "id": "76561199257569878",
+                "score": 1034218,
+                "acc": 95.07,
+                "name": "Uragirimono"
+            },
+            {
+                "id": "76561199327349336",
+                "score": 1028114,
+                "acc": 94.51,
+                "name": "Labo"
+            },
+            {
+                "id": "76561198835553328",
+                "score": 1010112,
+                "acc": 92.86,
+                "name": "佐藤"
+            },
+            {
+                "id": "76561198005851277",
+                "score": 998335,
+                "acc": 91.78,
+                "name": "garai_JLS"
+            }
+        ]
+    },
+    {
+        "id": "2cd62",
+        "characteristic": "Standard",
+        "difficulty": "Expert",
+        "name": "Schwank - stasis",
+        "hash": "a9c5490c35091281b6795e33d56e97535f1fa5b3",
+        "maxScore": 702075,
+        "scores": [
+            {
+                "id": "76561198346097702",
+                "score": 666028,
+                "acc": 94.87,
+                "name": "The_Firth/ZoNo"
+            },
+            {
+                "id": "76561199327349336",
+                "score": 657491,
+                "acc": 93.65,
+                "name": "Labo"
+            },
+            {
+                "id": "76561198005851277",
+                "score": 654975,
+                "acc": 93.29,
+                "name": "garai_JLS"
+            },
+            {
+                "id": "76561198835553328",
+                "score": 650415,
+                "acc": 92.64,
+                "name": "佐藤"
+            }
+        ]
+    },
+    {
+        "id": "25122",
+        "characteristic": "Standard",
+        "difficulty": "ExpertPlus",
+        "name": "SLK-9888sys - MAX 321 STARS",
+        "hash": "4addf714d12c4d9703932b1cdf5f113188315e41",
+        "maxScore": 1239355,
+        "scores": [
+            {
+                "id": "76561199257569878",
+                "score": 1001782,
+                "acc": 80.83,
+                "name": "Uragirimono"
+            }
+        ]
+    }
+]
